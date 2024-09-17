@@ -1,4 +1,4 @@
-package Srushti;
+package Prathamesh;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
